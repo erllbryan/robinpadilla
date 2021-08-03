@@ -1,0 +1,21 @@
+A IMG {
+	BORDER-RIGHT: #2C333A 2px solid; BORDER-TOP: #2C333A 2px solid; BORDER-LEFT: #2C333A 2px solid; BORDER-BOTTOM: #2C333A 2px solid
+}
+A:hover IMG {
+	BORDER-RIGHT: #2C333A 3px solid; BORDER-TOP: #2C333A 3px solid; BORDER-LEFT: #2C333A 3px solid; BORDER-BOTTOM: #2C333A 3px solid
+}
+
+BODY {
+	FONT-SIZE: 8pt; COLOR: #818574; FONT-FAMILY: verdana; TEXT-ALIGN: left}
+
+TD {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: verdana;}
+
+
+
+A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
